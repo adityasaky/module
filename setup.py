@@ -5,10 +5,10 @@ with open("README.md", "r") as readme:
 
 setuptools.setup(
     name="module",
-    version="0.0.2",
+    version="0.0.4",
     author="Aditya Saky",
     author_email="aditya@saky.in",
-    description="My second python package",
+    description="A warning to be more careful when pulling in dependencies",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/adityasaky/module",
